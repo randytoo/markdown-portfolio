@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Play Video Games
+- Watch Movies
+- Spend Time with Family
+  - Camping
+  - ATV
