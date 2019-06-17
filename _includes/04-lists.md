@@ -1,0 +1,5 @@
+- Play Video Games
+- Watch Movies
+- Spend Time with Family
+  - Camping
+  - ATV
